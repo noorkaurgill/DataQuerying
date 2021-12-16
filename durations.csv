@@ -1,0 +1,25 @@
+subscriber_type,duration,number
+Subscriber,0 - 30 mins,841515
+Customer,0 - 30 mins,94796
+Customer,30 mins - 1 hr,16187
+Customer,1 - 2 hrs,10926
+Customer,2 - 3 hrs,5295
+Customer,3 - 4 hrs,3121
+Subscriber,30 mins - 1 hr,3054
+Customer,4 - 5 hrs,2099
+Customer,Over 10 hrs,1313
+Customer,5 - 6 hrs,1254
+Subscriber,1 - 2 hrs,967
+Customer,6 - 7 hrs,839
+Customer,7 - 8 hrs,554
+Subscriber,2 - 3 hrs,334
+Subscriber,Over 10 hrs,323
+Customer,8 - 9 hrs,275
+Subscriber,8 - 9 hrs,172
+Subscriber,3 - 4 hrs,161
+Customer,9 - 10 hrs,150
+Subscriber,4 - 5 hrs,103
+Subscriber,6 - 7 hrs,64
+Subscriber,7 - 8 hrs,59
+Subscriber,5 - 6 hrs,58
+Subscriber,9 - 10 hrs,29

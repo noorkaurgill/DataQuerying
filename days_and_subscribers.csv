@@ -1,0 +1,15 @@
+day,subscriber_type,num_trips
+1,Customer,25908
+1,Subscriber,25467
+2,Customer,15142
+2,Subscriber,154795
+3,Customer,14737
+3,Subscriber,169668
+4,Customer,15237
+4,Subscriber,165530
+5,Customer,16612
+5,Subscriber,160296
+6,Customer,19929
+6,Subscriber,140048
+7,Customer,29244
+7,Subscriber,31035

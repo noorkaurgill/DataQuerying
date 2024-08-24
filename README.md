@@ -1,7 +1,7 @@
 # Querying Information
 
-- In the Query Project, we are data scientists at Lyft Bay Wheels (https://www.lyft.com/bikes/bay-wheels), formerly known as Ford GoBike, the
-  company running Bay Area Bikeshare. We are trying to increase ridership, and we want to offer deals through the mobile app to do so. 
+- For Lyft Bay Wheels (https://www.lyft.com/bikes/bay-wheels), formerly known as Ford GoBike, the
+  company running Bay Area Bikeshare, we are trying to increase ridership, and we want to offer deals through the mobile app to do so. 
 
 - The static tables we will be using are in the dataset **san_francisco** :
 
